@@ -1,0 +1,349 @@
+Skip to content
+geeksforgeeks
+Courses
+Tutorials
+Jobs
+Practice
+
+Write
+Write
+Come write articles for us and get featured
+Practice
+Practice
+Learn and code with the best industry experts
+Premium
+Premium
+Get access to ad-free content, doubt assistance and more!
+Jobs
+Jobs
+Come and find your dream job with us
+Geeks Digest
+Quizzes
+Geeks Campus
+Gblog Articles
+IDE
+Campus Mantri
+Sign In
+Sign In
+Home
+Saved Videos
+Courses
+For Working Professionals
+LIVE
+Self-Paced
+For Students
+LIVE
+Self-Paced
+School Courses
+Algorithms
+Analysis of Algorithms
+Data Structures
+Interview Corner
+Languages
+ML & Data Science
+CS Subjects
+GATE
+Web Development
+CSS Frameworks
+JavaScript Frameworks
+JavaScript Libraries
+Software Designs
+GFG Sheets
+Web Dev Cheat Sheets
+Company-Wise SDE Sheets
+DSA Sheets
+School Learning
+Mathematics
+Maths Notes (Class 8-12)
+NCERT Solutions
+RD Sharma Solutions
+Physics Notes (Class 8-11)
+Chemistry Notes
+CS Exams/PSUs
+ISRO
+UGC NET
+Student
+Post a Job
+Curated DSA Lists
+Tutorials
+Jobs
+Practice
+GBlog
+Puzzles
+What's New ?
+ Change Language
+Data Structures
+Algorithms
+Interview Preparation
+Topic-wise Practice
+C++
+Java
+Python
+Competitive Programming
+Machine Learning
+JavaScript
+SDE Sheet
+Puzzles
+GFG School
+Projects
+Table of Contents
+Data Structures
+Introduction to Data Structures
+What is Data Structure: Types, Classifications and Applications
+Overview of Data Structures
+Different Types of Data Structures
+Array Data Structure
+String Data Structure
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Binary Tree Data Structure
+Binary Search Tree
+Heap Data Structure
+Hashing Data Structure
+Graph Data Structure And Algorithms
+Matrix Data Structure
+Advanced Data Structures
+Data Structure Alignment : How data is arranged and accessed in Computer Memory?
+What Should I Learn First: Data Structures or Algorithms?
+How to Start Learning DSA?
+Static Data Structure vs Dynamic Data Structure
+Static and Dynamic data structures in Java with Examples
+Common operations on various Data Structures
+Real-time application of Data Structures
+Data Structures
+Introduction to Data Structures
+What is Data Structure: Types, Classifications and Applications
+Overview of Data Structures
+Different Types of Data Structures
+Array Data Structure
+String Data Structure
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Binary Tree Data Structure
+Binary Search Tree
+Heap Data Structure
+Hashing Data Structure
+Graph Data Structure And Algorithms
+Matrix Data Structure
+Advanced Data Structures
+Data Structure Alignment : How data is arranged and accessed in Computer Memory?
+What Should I Learn First: Data Structures or Algorithms?
+How to Start Learning DSA?
+Static Data Structure vs Dynamic Data Structure
+Static and Dynamic data structures in Java with Examples
+Common operations on various Data Structures
+Real-time application of Data Structures
+
+Stack Data Structure
+Last Updated : 04 Aug, 2022
+Read
+Discuss
+Data Structure and Algorithms Course
+Practice Problems on Stack
+Recent articles on Stack
+
+Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).
+
+Click to enlarge
+
+There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out)/FILO(First In Last Out) order.
+
+Topics :
+
+
+Introduction
+Design and Implementation
+Standard Problems
+Operations on Stack
+Misc
+Quick Links
+Introduction :
+
+Introduction to Stack
+Stack in C++ STL
+Stack Class in Java
+Stack in Python
+Stack in C#
+DSA-Self-Paced
+
+Design and Implementation :
+
+Implement Queue using Stacks
+Design and Implement Special Stack Data Structure | Added Space Optimized Version
+Implement two stacks in an array
+Implement Stack using Queues
+Design a stack with operations on middle element
+How to efficiently implement k stacks in a single array?
+How to create mergable stack?
+Design a stack that supports getMin() in O(1) time and O(1) extra space
+Implement a stack using single queue
+How to implement stack using priority queue or heap?
+Create a customized data structure which evaluates functions in O(1)
+Implement Stack and Queue using Deque
+Standard Problems based on Stack :
+
+Infix to Postfix Conversion using Stack
+Prefix to Infix Conversion
+Prefix to Postfix Conversion
+Postfix to Prefix Conversion
+Postfix to Infix
+Convert Infix To Prefix Notation
+The Stock Span Problem
+Check for balanced parentheses in an expression
+Next Greater Element
+Next Greater Frequency Element
+Number of NGEs to the right
+Maximum product of indexes of next greater on left and right
+The Celebrity Problem
+Expression Evaluation
+Arithmetic Expression Evalution
+Evaluation of Postfix Expression
+Iterative Tower of Hanoi
+Print next greater number of Q queries
+Operations on Stack :
+
+Reverse a stack using recursion
+Sort a stack using recursion
+Sort a stack using a temporary stack
+Reverse a stack without using extra space in O(n)
+Delete middle element of a stack
+Sorting array using Stacks
+Delete array elements which are smaller than next or become smaller
+Check if a queue can be sorted into another queue using a stack
+Reverse individual words
+Count subarrays where second highest lie before highest
+Check if an array is stack sortable
+Misc :
+
+Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+Iterative Postorder Traversal | Set 2 (Using One Stack)
+Merge Overlapping Intervals
+Largest Rectangular Area in a Histogram | Set 2
+Print ancestors of a given binary tree node without recursion
+Reverse a string using stack
+Program for Tower of Hanoi
+Find maximum depth of nested parenthesis in a string
+Find maximum of minimum for every window size in a given array
+Length of the longest valid substring
+Iterative Depth First Traversal of Graph
+Minimum number of bracket reversals needed to make an expression balanced
+Expression contains redundant bracket or not
+Identify and mark unmatched parenthesis in an expression
+Check if two expressions with brackets are same
+Find index of closing bracket for a given opening bracket in an expression
+Check for balanced parentheses in an expression
+Balanced expression with replacement
+Check if a given array can represent Preorder Traversal of Binary Search Tree
+Form minimum number from given sequence
+Find if an expression has duplicate parenthesis or not
+Find maximum difference between nearest left and right smaller elements
+Find next Smaller of next Greater in an array
+Find maximum sum possible equal sum of three stacks
+Count natural numbers whose all permutation are greater than that number
+Delete consecutive same words in a sequence
+Decode a string recursively encoded as count followed by substring
+Bubble sort using two Stacks
+Pattern Occurrences : Stack Implementation Java
+Iterative method to find ancestors of a given binary tree
+Stack Permutations (Check if an array is stack permutation of other)
+Tracking current Maximum Element in a Stack
+Check mirror in n-ary tree
+Reverse a number using stack
+Reversing the first K elements of a Queue
+Reversing a Queue
+Check if stack elements are pairwise consecutive
+Spaghetti Stack
+Interleave the first half of the queue with second half
+Remove brackets from an algebraic string containing + and – operators
+Growable array based stack
+Range Queries for Longest Correct Bracket Subsequence
+Quick Links :
+
+‘Practice Problems’ on Stack
+‘Videos’ on Stack
+‘Quizzes’ on Stack
+GeeksforGeeks Courses:
+Complete Interview Preparation
+Get fulfilled all your interview preparation needs at a single place with the Complete Interview Preparation Course that provides you with all the required stuff to prepare for any product-based, service-based, or start-up company at the most affordable prices. Get access to over 200 coding questions, premium lectures, theoretical resources, practice tracks, and much more.
+
+Live Courses
+In GFG Live Classes, Get best-in-industry Interactive LIVE & Self-Paced Courses with Individual Attention by Leading Industry Experts to level up yourself and get into your dream company. Get real-time GFG Live Courses from the industry experts to encourage out-of-the-box thinking, leading to clarity in concepts, creativity and innovative ideas. Check out GeeksforGeeks valuable Live Courses –System Design Live, Competitive Programming Live, and more!
+
+Language Foundation Courses[C Programming / C++ / JAVA / Python ]
+Explore GeeksforGeeks Language Foundation Courses – C Programming | Java Foundation | Python Foundation | C++ Foundation – Learn any programming language from scratch and understand all of its core fundamentals for a strong programming foundation in the simplest way and best price possible with GeeksforGeeks Language Foundation Courses. These courses are for complete beginners who want to get started with programming and build their foundation.
+
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.
+
+
+
+
+
+Practice Problems, POTD Streak, Weekly Contests & More!
+View Details
+
+
+WHAT'S NEW
+
+Data Structures & Algorithms- Self Paced Course
+View Details
+
+Complete Interview Preparation- Self Paced Course
+View Details
+
+
+A-143, 9th Floor, Sovereign Corporate Tower,
+Sector-136, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+Company
+About Us
+Careers
+In Media
+Contact Us
+Privacy Policy
+Copyright Policy
+Learn
+Algorithms
+Data Structures
+SDE Cheat Sheet
+Machine learning
+CS Subjects
+Video Tutorials
+Courses
+News
+Top News
+Technology
+Work & Career
+Business
+Finance
+Lifestyle
+Knowledge
+Languages
+Python
+Java
+CPP
+Golang
+C#
+SQL
+Kotlin
+Web Development
+Web Tutorials
+Django Tutorial
+HTML
+JavaScript
+Bootstrap
+ReactJS
+NodeJS
+Contribute
+Write an Article
+Improve an Article
+Pick Topics to Write
+Write Interview Experience
+Internships
+Video Internship
+@geeksforgeeks , Some rights reserved
+Lightbox
+Start Your Coding Journey Now!
+Login
+Register
